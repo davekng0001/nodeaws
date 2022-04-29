@@ -1,0 +1,17 @@
+{
+  "name": "node_ec2",
+  "version": "1.0.0",
+  "description": "node ec2 aws",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.0",
+    "install": "^0.13.0",
+    "mongodb": "^4.5.0",
+    "npm": "^8.8.0"
+  }
+}
