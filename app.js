@@ -6,6 +6,6 @@ app.get('/', (req, res) => {
     res.send("Home");
 })
 
-app.listen(3000,()=>{
+app.listen(port,()=>{
 console.log("whats up listening");
 });
